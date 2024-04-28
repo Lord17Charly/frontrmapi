@@ -1,4 +1,4 @@
-var url = "http://34.125.43.40:8080/api/randm";
+var url = "https://stable-splicer-419121.uc.r.appspot.com/api/randm";
 
 function postUser() {
     console.log(url);
